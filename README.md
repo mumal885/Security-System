@@ -2,7 +2,7 @@
 ![logo](https://github.com/mumal885/Security-System/blob/main/system.png)
 # Security-System
 This Security-System is coded in C++ and uses C++ file handling concepts.
-Shop Billing System is about 165 lines code and is a mini project.
+Security-System is about 165 lines code and is a mini project.
 
 ## Getting Started
 
